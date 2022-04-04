@@ -2,8 +2,14 @@ header {
 background-image:url(image.png);
 background-repeat: no-repeat;
 background-size: cover;
-background-position:top center;
+background-position:top center; 
 font-align:center;
 font-size:15px;
 color:red;
+}
+body{
+background-image:url(background 1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position:top center; 
 }
