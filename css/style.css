@@ -3,4 +3,7 @@ background-image:url(image.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-position:top center;
+font-align:center;
+font-size:15px;
+color:red;
 }
