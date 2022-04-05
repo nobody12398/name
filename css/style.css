@@ -16,8 +16,8 @@ background-position:top center;
 .st1{
 padding:6px;
 margin:1px;
-border-bottom:5px ridge;
-border-bottom-color:#0000ff;
+border:5px ridge;
+border-color:#0000ff;
 text-align:right;
 }
 .st2{
