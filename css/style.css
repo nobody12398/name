@@ -1,5 +1,5 @@
 header {
-background: linear-gradient(at top, #EECFBA, #C5DDE8);
+background: linear-gradient(45 deg, #EECFBA, #C5DDE8);
 background-repeat: no-repeat;
 background-size: cover;
 background-position:top center; 
@@ -8,7 +8,7 @@ font-size:15px;
 color:red;
 }
 body{
-background: linear-gradient(at top, #EECFBA, #C5DDE8);
+background: linear-gradient(45 deg, #EECFBA, #C5DDE8);
 background-repeat: no-repeat;
 background-size: cover;
 background-position:top center; 
