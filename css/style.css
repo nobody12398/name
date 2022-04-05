@@ -26,3 +26,8 @@ margin:1px;
 border-bottom:5px ridge;
 border-bottom-color:#1427a3;
 }
+.frame{
+background-color:blue;
+border:3px ridge red;
+padding:20px;
+}
