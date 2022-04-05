@@ -20,7 +20,7 @@ background-size: cover;
 background-position:top center; 
 }
 .st1{
-background: linear-gradient(at top, #8B0000, #B0E0E6);
+background: linear-gradient(60 deg, #8B0000, #B0E0E6);
 padding:0px;
 margin:1px;
 font-size:60px;
