@@ -1,8 +1,6 @@
 header {
 background: linear-gradient(45 deg, #EECFBA, #C5DDE8);
-background-repeat: no-repeat;
 background-size: cover;
-background-position:top center; 
 font-align:center;
 font-size:15px;
 color:red;
@@ -47,6 +45,5 @@ padding:20px;
 }
 .tree {
 background: linear-gradient(45 deg, #0ffca5, #C5DDE8);
-background-repeat: no-repeat;
 background-size: cover;
 background-position:top center; 
