@@ -23,6 +23,16 @@ font-weight:900;
 font-variant:small-caps;
 text-shadow:1px 1px 2px black,0 0 1em green;
 }
+.link{
+padding:0px;
+margin:1px;
+font-size:60px;
+text-align:left;
+font-family:serif;
+font-weight:500;
+font-variant:small-caps;
+text-shadow:1px 1px 3px black,0 0 1em red;
+}
 .st2{
 padding:6px;
 margin:1px;
