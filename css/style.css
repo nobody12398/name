@@ -50,6 +50,5 @@ border:3px ridge red;
 padding:20px;
 margin:10px;
 .tree {
-background-color:#0ffca5;
-background-size: cover;
-background-position:top center; 
+background-color:red;
+}
